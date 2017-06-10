@@ -19,7 +19,7 @@ a:hover{
 }
 
 .no-radius{
-	border-radius: none !important;
+	border-radius: 0 !important;
 }
 
 
